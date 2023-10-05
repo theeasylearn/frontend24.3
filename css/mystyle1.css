@@ -1,0 +1,21 @@
+body
+{
+     background-color: rgb(255, 219, 206);
+}
+table
+{
+     font-size: 1.5rem;
+     background-color: rgb(238, 220, 255);
+     padding: 30px;
+     margin: 20px;
+     border: 2px solid black;
+}
+p
+{
+     background-color: rgb(238, 220, 255);
+     margin-left: 20px;
+}
+img
+{
+     border-radius: 20px;
+}
