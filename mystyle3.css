@@ -1,0 +1,37 @@
+p
+{
+     font-size: 1.5rem;
+     background-color: rgb(255, 232, 223);
+     margin-top: 40px;
+     margin-bottom: 40px;
+     margin-left: 20px;
+     margin-right: 20px;
+     padding: 20px;
+}
+.parent_div
+{
+     display: flex;
+}
+a:link
+{
+     color: green;
+}
+a:visited
+{
+     color: black;
+}
+a:active
+{
+     color: red;
+     background-color: black;
+     padding: 10px;
+     border-radius: 10px;
+}
+a:hover
+{
+     color: yellow;
+}
+p:hover
+{
+     background-color: rgb(229, 202, 255);
+}
